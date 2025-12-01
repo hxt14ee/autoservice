@@ -1,0 +1,48 @@
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\EntityFramework.dll
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\EntityFramework.xml
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\вуз\autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+D:\вуз\autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+D:\вуз\autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+D:\вуз\autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+D:\вуз\autoservice\Autoservice\Autoservice\obj\Debug\Autoserv.8A800612.Up2Date
+D:\вуз\autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+D:\вуз\autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\Newtonsoft.Json.dll
+D:\вуз\autoservice\Autoservice\Autoservice\bin\Debug\Newtonsoft.Json.xml
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\EntityFramework.dll
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\Newtonsoft.Json.dll
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\EntityFramework.xml
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\вуз\autoservice — копия\Autoservice\Autoservice\bin\Debug\Newtonsoft.Json.xml
+D:\вуз\autoservice — копия\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+D:\вуз\autoservice — копия\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+D:\вуз\autoservice — копия\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+D:\вуз\autoservice — копия\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+D:\вуз\autoservice — копия\Autoservice\Autoservice\obj\Debug\Autoserv.8A800612.Up2Date
+D:\вуз\autoservice — копия\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+D:\вуз\autoservice — копия\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
+D:\вуз\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+D:\вуз\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+D:\вуз\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+D:\вуз\Autoservice\Autoservice\bin\Debug\EntityFramework.dll
+D:\вуз\Autoservice\Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\вуз\Autoservice\Autoservice\bin\Debug\Newtonsoft.Json.dll
+D:\вуз\Autoservice\Autoservice\bin\Debug\EntityFramework.xml
+D:\вуз\Autoservice\Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\вуз\Autoservice\Autoservice\bin\Debug\Newtonsoft.Json.xml
+D:\вуз\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+D:\вуз\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+D:\вуз\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+D:\вуз\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+D:\вуз\Autoservice\Autoservice\obj\Debug\Autoserv.8A800612.Up2Date
+D:\вуз\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+D:\вуз\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
