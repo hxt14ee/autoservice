@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: autoservice_mssql
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Strpo!2025passA1
+    ports:
+      - "1435:1433"
+    volumes:
+      - ./mssql_data:/var/opt/mssql/data
+      - ./backup:/var/opt/mssql/backup
